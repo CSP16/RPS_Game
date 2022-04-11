@@ -1,2 +1,3 @@
 # RPS_Game
-My First Javascript Project
+My First Javascript Project.
+
